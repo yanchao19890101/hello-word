@@ -1,2 +1,4 @@
 # hello-word
-just for try
+just for try!!
+
+first time, i like you !
